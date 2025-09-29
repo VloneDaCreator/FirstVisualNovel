@@ -1,25 +1,23 @@
-Life Choices: A Text-Based Life Simulation Game
+🎭 Indie Life – ASCII Visual Novel
 
-Life Choices is a text-based interactive life simulation game where your decisions shape the course of a character’s life from childhood to adulthood. Every choice impacts your happiness, relationships, and dependencies, leading to multiple possible endings.
+indie.py is an interactive, text-based visual novel written in Python. It uses ASCII art to tell the story of life from childhood to adulthood, where your choices shape happiness, addictions, and eventual life outcomes.
 
-Features
+✨ Features
 
-Branching Choices: Make meaningful decisions with y/n responses that affect your life journey.
+Branching life story with multiple endings (hopeful, tragic, bittersweet, burnout, creative, balanced, etc.).
 
-Dynamic Happiness & Dependencies: Track your mental state and habits like alcohol or cigarette use.
+ASCII art for characters, objects, and life events.
 
-Random Events & Object Encounters: Unexpected encounters and life events make each playthrough unique.
+Random life events and object encounters (toys, gadgets, cigarettes, alcohol, medicine, etc.).
 
-Multiple Endings: Your actions can lead to hopeful, bittersweet, tragic, or balanced outcomes.
+Happiness and dependency system that influences which ending you receive.
 
-ASCII Art Scenes: Visual representations enhance the storytelling experience.
+Replayability with different life paths and consequences.
 
-How to Play
+🕹️ How to Play
+Run the game with:
 
-Run the game in Python: python main.py.
+python indie.py
 
-Read the scene description and respond with y (yes) or n (no) to make choices.
 
-Explore different paths to see all possible endings.
-
-Technologies Used: Python 3, ASCII art, random event generation.
+Follow the story, make choices, and see where life takes you.
